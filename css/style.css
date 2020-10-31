@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Underdog&display=swap');
 
 body{
+    font-family: 'Underdog', cursive;
     text-align: center;
     color: rgb(34, 33, 33);
     font-size: 4vw;
