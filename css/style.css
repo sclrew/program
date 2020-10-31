@@ -1,0 +1,19 @@
+
+body{
+    text-align: center;
+    color: rgb(34, 33, 33);
+    font-size: 4vw;
+}
+
+img{
+    width:70vw;
+}
+
+@media (max-width: 768px){
+    body{
+        font-size: 5vw;  
+    }    
+    img{
+        width:90vw;
+    }
+}
